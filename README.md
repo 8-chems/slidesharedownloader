@@ -1,1 +1,2 @@
-# slidesharedownloader
+# SlideShareDownloader
+Using this tool, you don't need to login to downlod some slideshare files. Instead, you can select the file by its url and get pdf with images for each slide. More demonstrations are comming soon ...
